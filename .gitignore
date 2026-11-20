@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+.idea/
+.vscode/*
+!.vscode/extensions.json
+.DS_Store
+*.log
+android/.gradle/
+android/local.properties
+android/build/
+android/app/build/
+# Android generated locally for V0.1; track after native scaffolding is reviewed.
+android/
