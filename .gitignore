@@ -8,6 +8,7 @@ dist/
 !.vscode/extensions.json
 .DS_Store
 *.log
+*.tsbuildinfo
 android/.gradle/
 android/local.properties
 android/build/
